@@ -1,2 +1,2 @@
-# Estudando_linguagem_C
+# Estruturando_C
 Estudo de C para Programação Estruturada
